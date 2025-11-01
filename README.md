@@ -111,20 +111,22 @@
 
 ## General +-
 
-| Action               | Windows | macOS +           |
-|----------------------|----------------|-------------------|
-| Search everywhere    | `Double Shift` | `Double Ctrl`     |
-| Find Action          | `Ctrl + Shift + A` | `Opt + Shift + A` |
-| Open Project files   | `Alt + #[0–9]` | `Alt + 1`         |
-| Open Terminal        | `Alt + #[0–9]` | `Alt + 2`         |
-| Open Git             | `Alt + #[0–9]` | `Alt + 3`         |
-| Open Bookmarks       | `Alt + #[0–9]` | `Alt + 4`         |
-| Open AI chat         | `Alt + #[0–9]` | `Alt + 5`         |
-| Open Junie           | `Alt + #[0–9]` | `Alt + 6`         |
-| Open TODO            | `Alt + #[0–9]` | `Alt + 7`         |
-| Open Run             | `Alt + #[0–9]` | `Alt + 8`         |
-| Open Find            | `Alt + #[0–9]` | `Alt + 9`         |
-| Open Settings dialog | `Ctrl + Alt + S` | `Ctrl + ,`        |
+| Action               | Windows | macOS +                    |
+|----------------------|----------------|----------------------------|
+| Search everywhere    | `Double Shift` | `Double Ctrl`              |
+| Find Action          | `Ctrl + Shift + A` | `Opt + Shift + A`          |
+| Open Project files   | `Alt + #[0–9]` | `Alt + 1`                  |
+| Open Terminal        | `Alt + #[0–9]` | `Alt + 2`                  |
+| Open Git             | `Alt + #[0–9]` | `Alt + 3`                  |
+| Open Bookmarks       | `Alt + #[0–9]` | `Alt + 4`                  |
+| Open AI chat         | `Alt + #[0–9]` | `Alt + 5`                  |
+| Open Junie           | `Alt + #[0–9]` | `Alt + 6`                  |
+| Open TODO            | `Alt + #[0–9]` | `Alt + 7`                  |
+| Open Run             | `Alt + #[0–9]` | `Alt + 8`                  |
+| Open Find            | `Alt + #[0–9]` | `Alt + 9`                  |
+| Open Settings dialog | `Ctrl + Alt + S` | `Ctrl + ,`                 |
+| Close tab            | `Ctrl + Alt + S` | `Alt + W`                  |
+| Close all tabs       | `Ctrl + Alt + S` | `Ctrl + Shift + Alt + End` |
 
 ## VCS / Local History +-
 
